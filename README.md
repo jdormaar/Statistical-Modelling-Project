@@ -26,7 +26,7 @@
 
 ## Results
 
-This project was able to successfully demonstrate a statistically significant strong negative linear correlational relationship between the number of available auto- and assisted propulsion transportation units - _by MobiBikes_ - and the number of empty storage slots at the Mobibikes stations throughout Vancouver, BC, Canada.
+This project was able to successfully demonstrate a statistically significant strong negative linear correlational relationship between the number of available manual and assisted propulsion transportation units and the number of empty storage slots available at the bike rental stations throughout Toronto, ON, Canada.
 
 ## Challenges
 
@@ -39,4 +39,4 @@ Finding relevant correlational data with this particular assignment was another 
 
 ## Future Goals
 
-I would have enjoyed the opportunity to have spent a great deal more time with these data collection, filtering and organizing techniques. This project encorporated a wide range of new skill sets, and I regret that am unable to invest more time into learning and using them.
+I would have enjoyed the opportunity to have spent a great deal more time with this data collection, applying more thorough filtering and organizing techniques. This project incorporated a wide range of new skill sets, and I regret that was unable to have invested more time into learning their implementation.
