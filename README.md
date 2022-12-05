@@ -39,4 +39,4 @@ Finding relevant correlational data with this particular assignment was another 
 
 ## Future Goals
 
-I would have enjoyed the opportunity to have spent a great deal more time with this data collection, applying more thorough filtering and organizing techniques. This project incorporated a wide range of new skill sets, and I regret that was unable to have invested more time into learning their implementation.
+I would have enjoyed the opportunity to have spent a great deal more time with this data collection, applying more thorough filtering and organizing techniques in order to have been able to modify the data enough to analyze some sort of variable dependencies. This project incorporated a wide range of new skill sets, and I regret that was unable to have invested more time into learning their implementation.
