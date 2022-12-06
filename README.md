@@ -35,7 +35,7 @@ Time limitations remain the most precious resource within the constraints of thi
 Finding relevant correlational data with this particular assignment was another significant challenge.
 
 - The time of day at which the data was collected on the points of interest businesses in proximity to the bike stations was a challenge, since finding correlations between commuter transportation uses and these businesses can only be relevant if both variables are valid.
-- It is also possible the time of year impacted the relatability of these data sets, and is likely the cultural correlations between outdoor cycling for leisure with various points of interest would become more prominent in the warmer seasons.
+- It is also possible the time of year impacted the relate-ability of these data sets, and is likely the cultural correlations between outdoor cycling for leisure with various points of interest would become more prominent in the warmer seasons.
 
 ## Future Goals
 
