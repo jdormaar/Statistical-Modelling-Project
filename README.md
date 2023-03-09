@@ -1,4 +1,4 @@
-# Final Project Statistical Modelling with Python
+# A Statistical Modelling with Python
 
 ## Project/Goals
 
